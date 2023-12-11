@@ -5,6 +5,10 @@ var body = document.getElementById("gradient");
 
 function setGradient(){
     body.style.background = "linear-gradient(to right, " + color1.value + ", " + color2.value + ")";
+
+    // To print CSS code on the background
+    css.textContent = body.style.background + ";";
+
 }
 
 // color1.addEventListener("input", setGradient);
