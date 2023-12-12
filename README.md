@@ -22,7 +22,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/minimomo14/background-color-generator.git
+git clone git@github.com:minimomo14/Background-color-generator.git
 Open the index.html file in your web browser.
 
 Usage
