@@ -1,5 +1,7 @@
 # Background-color-generator
-practice javascript
+practice javascript DOM
+
+DEMO LINK: https://minimomo14.github.io/Background-color-generator/
 
 Background Color Generator Documentation
 Overview
