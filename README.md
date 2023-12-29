@@ -5,6 +5,10 @@ DEMO LINK: https://minimomo14.github.io/Background-color-generator/
 
 Background Color Generator Documentation
 
+https://github.com/minimomo14/Background-color-generator/assets/93943633/27233f56-752d-490a-b388-d1d6c92aca89
+
+
+
 Overview
 The Background Color Generator is a web application that allows users to generate random background colors and easily copy the corresponding color code. 
 It is built using HTML, CSS, and JavaScript to provide a simple and interactive user experience.
